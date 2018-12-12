@@ -1,0 +1,10 @@
+# local package
+
+
+Flask==0.12.3
+Flask-SQLAlchemy==2.1
+pyodbc
+SQLAlchemy
+
+pandas
+psycopg2
